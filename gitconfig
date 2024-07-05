@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = mario.sessini@gmail.com
+	name = mario sessini
